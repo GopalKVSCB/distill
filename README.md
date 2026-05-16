@@ -629,6 +629,7 @@ This also serves as a guid for PR - Pull requests:
 
 MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
 
+
 Trying to add some doc
 #Testing line - Sabari
 
@@ -638,3 +639,4 @@ Trying to add some doc
 #Testing - Nat
 #adding testing line 
 #Testing - Nat- readme changes
+
